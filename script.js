@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Botón de saludo
     const saludoBtn = document.getElementById('saludoBtn');
     saludoBtn.addEventListener('click', function() {
-        alert('¡Hola Josielis! Bienvenido a la programación web 🎉');
+        alert('¡Mi esposa se llama Raquel 🎉');
     });
 
     // Formulario de contacto
@@ -33,4 +33,5 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         });
     });
+
 });
